@@ -35,3 +35,5 @@ I am a student, developer and curious about everything about technology
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
+![Postman](https://img.shields.io/badge/-Postman-fff?style=flat&logo=Postman&logoColor=FF6C37)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat&logo=PostgreSQL&logoColor=336791)
