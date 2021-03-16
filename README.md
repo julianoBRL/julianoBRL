@@ -1,5 +1,5 @@
 
-### Hi, I'm Juliano Lira
+### Hello, I'm Juliano Lira
 
 I'm a student, developer, self-taught and curious about everything about technology.
 
