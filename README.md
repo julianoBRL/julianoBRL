@@ -1,13 +1,13 @@
 
 ### Hi, I'm Juliano Lira
 
-I am a student, developer, self-taught and curious about everything about technology
+I am a student, developer, self-taught and curious about everything about technology.
 
-- :school: I'm currently studying Computer Engineering on ENIAC
-- 🌱 I’m currently learning Laravel and React-Native
-- 👨‍💻 All of my projects are available  [here](https://github.com/ShintaroBRL?tab=repositories)
-- 👯 I’m looking to collaborate on ... Any of project
-- 💬 Ask me about ... What ever.... :laughing:
+- :school: I'm currently studying Computer Engineering on ENIAC.
+- 🌱 I’m currently learning Laravel and React-Native.
+- 👨‍💻 All of my projects are available  [here](https://github.com/ShintaroBRL?tab=repositories).
+- 👯 I’m looking to collaborate on any project.
+- 💬 Ask me about anything.
 
 #### Languages
 
