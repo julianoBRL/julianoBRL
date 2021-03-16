@@ -41,3 +41,7 @@ I am a student, developer, self-taught and curious about everything about techno
 ![Linux](https://img.shields.io/badge/-Linux-fff?style=flat&logo=Linux&logoColor=181717)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=Git&logoColor=F05032)
 ![Packagist](https://img.shields.io/badge/-Packagist-fff?style=flat&logo=Packagist&logoColor=F28D1A)
+
+#### Contacts
+Email: Juliano0forum@gmail.com
+#### Technologies
