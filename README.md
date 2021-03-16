@@ -22,7 +22,7 @@ I'm a student, developer, self-taught and curious about everything about technol
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![React-Natie](https://img.shields.io/badge/-Ract_Native-fff?&logo=react&logoColor=blue)
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=3DDC84)
-![NodeJs](https://img.shields.io/badge/-NodeJs-fff?&logo=nodejs&logoColor=F37C20)
+![NodeJs](https://img.shields.io/badge/-NodeJs-fff?&logo=Node.js&logoColor=F37C20)
 
 #### Technologies
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-fff?style=flat&logo=.net&logoColor=blue)
