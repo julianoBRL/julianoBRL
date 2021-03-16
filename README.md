@@ -21,7 +21,7 @@ I am a student, developer and curious about everything about technology
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![React-Natie](https://img.shields.io/badge/-Ract_Native-fff?&logo=react&logoColor=blue)
-![Android](https://img.shields.io/badge/-Ract_Native-fff?&logo=Android&logoColor=3DDC84)
+![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=3DDC84)
 
 #### Technologies
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-fff?style=flat&logo=.net&logoColor=blue)
