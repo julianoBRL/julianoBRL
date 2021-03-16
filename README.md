@@ -20,7 +20,7 @@ I am a student, developer and curious about everything about technology
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
-![React-Natie](https://img.shields.io/badge/-Ract_Native-fff?&logo=Ract_Native&logoColor=blue)
+![React-Natie](https://img.shields.io/badge/-Ract_Native-fff?&logo=Ract-Native&logoColor=blue)
 
 
 #### Technologies
