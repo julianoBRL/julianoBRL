@@ -14,7 +14,7 @@ I am a student, developer and curious about everything about technology
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=F37C20)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel&logoColor=FF2D20)
 ![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
