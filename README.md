@@ -1,7 +1,7 @@
 
 ### Hi, I'm Juliano Lira
 
-I am a student, developer and curious about everything about technology
+I am a student, developer, self-taught and curious about everything about technology
 
 - :school: I'm currently studying Computer Engineering on ENIAC
 - 🌱 I’m currently learning Larael and React Native
