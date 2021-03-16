@@ -38,4 +38,6 @@ I am a student, developer, self-taught and curious about everything about techno
 ![Postman](https://img.shields.io/badge/-Postman-fff?style=flat&logo=Postman&logoColor=FF6C37)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat&logo=PostgreSQL&logoColor=336791)
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?style=flat&logo=Heroku&logoColor=430098)
-![Linux](https://img.shields.io/badge/-Linux-fff?style=flat&logo=Linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/-Linux-fff?style=flat&logo=Linux&logoColor=181717)
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=Git&logoColor=F05032)
+![Packagist](https://img.shields.io/badge/-Packagist-fff?style=flat&logo=Packagist&logoColor=F28D1A)
