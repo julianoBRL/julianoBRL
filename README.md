@@ -43,5 +43,5 @@ I am a student, developer, self-taught and curious about everything about techno
 ![Packagist](https://img.shields.io/badge/-Packagist-fff?style=flat&logo=Packagist&logoColor=F28D1A)
 
 #### Contacts
-Email: Juliano0forum@gmail.com
+Email: Juliano0forum@gmail.com<br>
 Likedin: https://www.linkedin.com/in/juliano-lira/
