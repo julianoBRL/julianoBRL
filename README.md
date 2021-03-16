@@ -37,3 +37,4 @@ I am a student, developer and curious about everything about technology
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-fff?style=flat&logo=Postman&logoColor=FF6C37)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat&logo=PostgreSQL&logoColor=336791)
+![Heroku](https://img.shields.io/badge/-Heroku-fff?style=flat&logo=Heroku&logoColor=430098)
