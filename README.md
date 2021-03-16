@@ -15,13 +15,13 @@ I am a student, developer and curious about everything about technology
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
-![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel&logoColor=007396)
+![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel&logoColor=FF2D20)
 ![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![React-Natie](https://img.shields.io/badge/-Ract_Native-fff?&logo=react&logoColor=blue)
-
+![Android](https://img.shields.io/badge/-Ract_Native-fff?&logo=Android&logoColor=3DDC84)
 
 #### Technologies
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-fff?style=flat&logo=.net&logoColor=blue)
