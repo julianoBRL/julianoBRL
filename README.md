@@ -25,7 +25,7 @@ I'm a student, developer, self-taught and curious about everything about technol
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=3DDC84)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-fff?&logo=Node.js&logoColor=F37C20)
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 #### Technologies
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-fff?style=flat&logo=.net&logoColor=blue)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-fff?style=flat&logo=Microsoft&logoColor=0078D7)
