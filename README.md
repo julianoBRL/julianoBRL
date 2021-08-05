@@ -45,6 +45,7 @@ I'm a student, developer, self-taught and curious about everything about technol
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?style=flat&logo=Heroku&logoColor=430098)
 ![Linux](https://img.shields.io/badge/-Linux-fff?style=flat&logo=Linux&logoColor=181717)
 ![Packagist](https://img.shields.io/badge/-Packagist-fff?style=flat&logo=Packagist&logoColor=F28D1A)
+![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker&logoColor=blue)
 
 <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=ShintaroBRL&show_icons=true&theme=tokyonight" /><br>
 
