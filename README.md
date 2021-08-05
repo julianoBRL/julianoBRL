@@ -25,7 +25,7 @@ I'm a student, developer, self-taught and curious about everything about technol
 ![React-Natie](https://img.shields.io/badge/-Ract_Native-fff?&logo=react&logoColor=blue)
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=3DDC84)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-fff?&logo=Node.js&logoColor=F37C20)
-![SpringBoot](https://img.shields.io/badge/-NodeJs-fff?&logo=SpringBoot&logoColor=3DDC84)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-fff?&logo=SpringBoot&logoColor=3DDC84)
 
 <br><br><br><br>
 #### Technologies
