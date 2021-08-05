@@ -4,7 +4,7 @@
 I'm a student, developer, self-taught and curious about everything about technology.
 
 - :school: I'm currently studying Computer Engineering at ENIAC and English at CNA.
-- 🌱 I’m currently learning Laravel and React-Native.
+- 🌱 I’m currently learning Spring Boot and Swagger.
 - 👨‍💻 All of my projects are available  [here](https://github.com/ShintaroBRL?tab=repositories).
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about anything.
@@ -25,6 +25,7 @@ I'm a student, developer, self-taught and curious about everything about technol
 ![React-Natie](https://img.shields.io/badge/-Ract_Native-fff?&logo=react&logoColor=blue)
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=3DDC84)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-fff?&logo=Node.js&logoColor=F37C20)
+![NodeJs](https://img.shields.io/badge/-NodeJs-fff?&logo=SpringBoot&logoColor=F37C20)
 
 <br><br><br><br>
 #### Technologies
