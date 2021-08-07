@@ -11,6 +11,8 @@ I'm a student, developer, self-taught and curious about everything about technol
 
 
 <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShintaroBRL&layout=compact&theme=tokyonight" />
+<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=ShintaroBRL&show_icons=true&theme=tokyonight" /><br>
+
  <!--<strong>Languages</strong>
 
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
@@ -47,7 +49,7 @@ I'm a student, developer, self-taught and curious about everything about technol
 ![Packagist](https://img.shields.io/badge/-Packagist-fff?style=flat&logo=Packagist&logoColor=F28D1A)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker&logoColor=blue)-->
 
-<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=ShintaroBRL&show_icons=true&theme=tokyonight" /><br>
+
 <br>
 #### Contacts
 Email: Juliano0forum@gmail.com<br>
