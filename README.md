@@ -15,4 +15,4 @@ I'm a student, developer, self-taught and curious about everything about technol
 
 #### Contacts
 Email: Juliano0forum@gmail.com<br>
-Likedin: https://www.linkedin.com/in/juliano-lira/
+Linkedin: https://www.linkedin.com/in/juliano-lira/
