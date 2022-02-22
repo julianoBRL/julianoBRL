@@ -10,9 +10,8 @@ I'm a student, developer, self-taught and curious about everything about technol
 - 💬 Ask me about anything.
 
 <br>
-<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoBRL&layout=compact&theme=tokyonight" />
-<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=julianoBRL&layout=compact&show_icons=true&theme=tokyonight" /><br><br><br><br><br><br><br>
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=julianoBRL&theme=blue-green)]
+<img width="350px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=julianoBRL&theme=blue-green" />
+<!--<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=julianoBRL&layout=compact&show_icons=true&theme=tokyonight" /><br><br><br><br><br><br>--><br>
 
 #### Contacts
 Email: Juliano0forum@gmail.com<br>
