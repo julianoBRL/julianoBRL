@@ -4,7 +4,7 @@
 I'm a student, developer, self-taught and curious about everything about technology.
 
 - :school: I'm currently studying Computer Engineering at ENIAC.
-- 🌱 I’m currently learning Spring Boot and Swagger.
+- 🌱 I’m currently learning React.JS & React+Electron.
 - 👨‍💻 All of my projects are available  [here](https://github.com/ShintaroBRL?tab=repositories).
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about anything.
