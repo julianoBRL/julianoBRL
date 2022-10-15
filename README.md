@@ -3,7 +3,7 @@
 
 I'm a student, developer, self-taught and curious about everything about technology.
 
-- :school: I'm currently studying Computer Engineering at ENIAC and English at CNA.
+- :school: I'm currently studying Computer Engineering at ENIAC.
 - 🌱 I’m currently learning Spring Boot and Swagger.
 - 👨‍💻 All of my projects are available  [here](https://github.com/ShintaroBRL?tab=repositories).
 - 👯 I’m looking to collaborate on any project.
